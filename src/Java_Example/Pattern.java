@@ -1,7 +1,7 @@
+//Pattern drawing more then 4 types using [for and Switch case statements].
+
 package Java_Example;
-
 import java.util.Scanner;
-
 public class Pattern{
        public static void main(String []args)
        {

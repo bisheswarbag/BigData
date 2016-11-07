@@ -12,7 +12,7 @@ public class TrianglePattern {
 			}
 			for(int k=0;k<i;k++)
 			{
-				System.out.print(" $");
+				System.out.print(" s");
 			}
 			System.out.println();
 		}

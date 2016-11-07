@@ -24,6 +24,7 @@ public class Array
 			{
 			System.out.print(x[i][j]+"\t");
 			}
+			System.out.println();
 		}
 	}
 }
